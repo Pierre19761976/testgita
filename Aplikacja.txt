@@ -3,3 +3,9 @@
         System.out.println("Podaj nowe hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
+   public void logowanieDogoogle() {
+        System.out.println("Podaj email");
+        System.out.println("Podaj nowe hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+}

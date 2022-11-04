@@ -20,3 +20,4 @@ public void logowanieMicrosoft() {
 public void przypomnikHaslo() {
       
     System.out.println("Przypomnij haslo");
+        System.out.println("Hello");
